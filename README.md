@@ -1,20 +1,16 @@
 # CRUD_PHP
-<style>
-    img{
-        width:100%;
-    }
-</style>
 
-<img src="" alt="cabecera">
+
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/fondo.png" alt="cabecera">
  CRUD en php, utilizando xampp con un servidor apache y mysql, con diseño en bootstrap 4
  CRUD in php, using xampp with an apache server and mysql, with bootstrap 4 design
 
-    ## C`REATE (CREAR)`
-    ## R`READ(LECTURA)`
-    ## U`UPDATE(ACTRUALIZAR)`
-    ## D`DELETE(BORRAR)`
+    ## C-CREATE (CREAR)
+    ## R-READ (LECTURA)
+    ## U-UPDATE (ACTRUALIZAR)
+    ## D-DELETE (BORRAR)
 
-<img src="" alt="cabecera">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/resu.jpg" alt="resumen">
 
 - Contenido/Contents
      - [DIAGRAMA-DIAGRAMS](#DIAGRAMA-DIAGRAMS)
@@ -25,7 +21,7 @@
 
   ## DIAGRAMA-DIAGRAMS
 [ES]
-```mermaid
+``mermaid
 sequenceDiagram
  autonumber
  Usuario->>Controlador: Solicita
@@ -36,9 +32,9 @@ Base de datos ->>Modelo: Retorna
  Modelo->>Controlador: Retorna
  Controlador->>Vista: Procesa y envía
  Vista->>Usuario: Procesa y envía
-```
+``
 [ENG]
-```mermaid
+``mermaid
 sequenceDiagram
  autonumber
 User ->> Controller: Request
@@ -49,7 +45,7 @@ Database ->> Model: Returns
 Model ->> Controller: Returns
 Controller ->> Vista: Process and send
 View ->> User: Process and send
-```
+``
 
 
   ## REQUISITOS-REQUIREMENTS
@@ -76,9 +72,9 @@ Para crear la base de datos necesitamos crear las siguientes tablas con sus espe
 
 - En la tabla registros debemos crear las siguientes columnas con su correspondiente tipo de informacion:
 
-<img src="" alt="db1">
-<img src="" alt="db2">
-<img src="" alt="db3">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3">
 
 
 To create the database we need to create the following tables with their specifications in phpmyadmin:
@@ -88,15 +84,15 @@ To create the database we need to create the following tables with their specifi
 
 - In the records table we must create the following columns with their corresponding type of information:
 
-<img src="" alt="db1">
-<img src="" alt="db2">
-<img src="" alt="db3">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3">
 
 
   ## IMAGENES-IMAGES
 
-<img src="" alt="f1">
-<img src="" alt="f2">
-<img src="" alt="f3">
-<img src="" alt="f4">
-<img src="" alt="f5">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f1.JPG" alt="f1">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f2.JPG" alt="f2">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f3.JPG" alt="f3">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f4.JPG" alt="f4">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f5.JPG" alt="f5">
