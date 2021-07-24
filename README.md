@@ -5,10 +5,10 @@
  CRUD en php, utilizando xampp con un servidor apache y mysql, con diseño en bootstrap 4
  CRUD in php, using xampp with an apache server and mysql, with bootstrap 4 design
  
-     C-CREATE (CREAR)
-     R-READ (LECTURA)
-     U-UPDATE (ACTRUALIZAR)
-     D-DELETE (BORRAR)
+## C`REATE (CREAR)`
+## R`READ(LECTURA)`
+## U`UPDATE(ACTRUALIZAR)`
+## D`DELETE(BORRAR)`
 
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/resu.jpg" alt="resumen">
 
