@@ -21,7 +21,7 @@
 
   ## DIAGRAMA-DIAGRAMS
 [ES]
-``mermaid
+```mermaid
 sequenceDiagram
  autonumber
  Usuario->>Controlador: Solicita
@@ -32,9 +32,9 @@ Base de datos ->>Modelo: Retorna
  Modelo->>Controlador: Retorna
  Controlador->>Vista: Procesa y envía
  Vista->>Usuario: Procesa y envía
-``
+```
 [ENG]
-``mermaid
+```mermaid
 sequenceDiagram
  autonumber
 User ->> Controller: Request
@@ -45,7 +45,7 @@ Database ->> Model: Returns
 Model ->> Controller: Returns
 Controller ->> Vista: Process and send
 View ->> User: Process and send
-``
+```
 
 
   ## REQUISITOS-REQUIREMENTS
@@ -72,9 +72,9 @@ Para crear la base de datos necesitamos crear las siguientes tablas con sus espe
 
 - En la tabla registros debemos crear las siguientes columnas con su correspondiente tipo de informacion:
 
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2"width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3"width="100%">
 
 
 To create the database we need to create the following tables with their specifications in phpmyadmin:
@@ -91,8 +91,8 @@ To create the database we need to create the following tables with their specifi
 
   ## IMAGENES-IMAGES
 
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f1.JPG" alt="f1">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f2.JPG" alt="f2">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f3.JPG" alt="f3">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f4.JPG" alt="f4">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f5.JPG" alt="f5">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f1.JPG" alt="f1" width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f2.JPG" alt="f2" width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f3.JPG" alt="f3" width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f4.JPG" alt="f4" width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f5.JPG" alt="f5" width="100%">
