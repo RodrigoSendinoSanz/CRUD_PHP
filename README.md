@@ -34,6 +34,7 @@ Base de datos ->>Modelo: Retorna
  Vista->>Usuario: Procesa y envía
 ```
 [ENG]
+
 ```mermaid
 sequenceDiagram
  autonumber
