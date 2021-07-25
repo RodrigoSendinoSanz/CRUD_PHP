@@ -53,8 +53,8 @@ Para crear la base de datos necesitamos crear las siguientes tablas con sus espe
 
 - En la tabla registros debemos crear las siguientes columnas con su correspondiente tipo de informacion:
 
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%" style="align="center">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="50%"  style="vertical-align:middle">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%" >
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="50%" >
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3"width="100%">
 
 
@@ -65,8 +65,8 @@ To create the database we need to create the following tables with their specifi
 
 - In the records table we must create the following columns with their corresponding type of information:
 
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%"  style="align:middle">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="50%" style="vertical-align:middle">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="50%" >
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3" width="100%">
 
 
@@ -76,4 +76,4 @@ To create the database we need to create the following tables with their specifi
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f2.JPG" alt="f2" width="100%">
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f3.JPG" alt="f3" width="100%">
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f4.JPG" alt="f4" width="100%">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f5.JPG" alt="f5" width="50%" style="vertical-align:middle">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f5.JPG" alt="f5" width="50%">
