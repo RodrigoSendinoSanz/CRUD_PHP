@@ -43,7 +43,7 @@
 - Start the **Apache** server and **MySQL** server in xampp
 - In a browser go to the path **http://localhost/PHP/** to access the projects and go to **http://localhost/phpmyadmin/** to see the database
 
-  ## BASEDEDATOS-DATABASE
+## BASEDEDATOS-DATABASE
 
 Para crear la base de datos necesitamos crear las siguientes tablas con sus especificaciones en phpmyadmin:
 
@@ -69,7 +69,7 @@ To create the database we need to create the following tables with their specifi
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3" width="100%">
 
 
-  ## IMAGENES-IMAGES
+ ## IMAGENES-IMAGES
 
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f1.JPG" alt="f1" width="100%">
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/f2.JPG" alt="f2" width="100%">
