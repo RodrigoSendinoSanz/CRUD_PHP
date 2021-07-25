@@ -49,7 +49,7 @@
 Para crear la base de datos necesitamos crear las siguientes tablas con sus especificaciones en phpmyadmin:
 
 - Crear una base de datos llamada php en ella tendras que crear una tabla llamada registros
->IMPORTANTE: se debe tener el usuario root, sin contraseña y el servidor ha de ser localhost ejemplo:**mysql:host=localhost;dbname=php","root",""**
+>IMPORTANTE: se debe tener el usuario root, sin contraseña y el servidor ha de ser localhost ejemplo:**"mysql:host=localhost;dbname=php","root",""**
 
 - En la tabla registros debemos crear las siguientes columnas con su correspondiente tipo de informacion:
 
@@ -61,7 +61,7 @@ Para crear la base de datos necesitamos crear las siguientes tablas con sus espe
 To create the database we need to create the following tables with their specifications in phpmyadmin:
 
 - Create a database called php in it you will have to create a table called records
->IMPORTANT: you must have the root user, without password and the server must be localhost example: **mysql: host = localhost; dbname = php "," root "," "**
+>IMPORTANT: you must have the root user, without password and the server must be localhost example: **"mysql: host = localhost; dbname = php "," root "," "**
 
 - In the records table we must create the following columns with their corresponding type of information:
 
