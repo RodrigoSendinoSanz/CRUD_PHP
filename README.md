@@ -65,7 +65,7 @@ To create the database we need to create the following tables with their specifi
 
 - In the records table we must create the following columns with their corresponding type of information:
 
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%"  style="vertical-align:middle">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%"  style="align:middle">
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="50%" style="vertical-align:middle">
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3" width="100%">
 
