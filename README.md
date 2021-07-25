@@ -21,36 +21,11 @@
 
   ## DIAGRAMA-DIAGRAMS
 [ES]
-```mermaid
-sequenceDiagram
- autonumber
- Usuario->>Controlador: Solicita
- Controlador->>Modelo: Llama
- Modelo->>Base de datos: Pide
- 
-Base de datos ->>Modelo: Retorna
- Modelo->>Controlador: Retorna
- Controlador->>Vista: Procesa y envía
- Vista->>Usuario: Procesa y envía
-```
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5Vc3VhcmlvLT4-Q29udHJvbGFkb3I6IFNvbGljaXRhXG4gQ29udHJvbGFkb3ItPj5Nb2RlbG86IExsYW1hXG4gTW9kZWxvLT4-QmFzZSBkZSBkYXRvczogUGlkZVxuIFxuQmFzZSBkZSBkYXRvcyAtPj5Nb2RlbG86IFJldG9ybmFcbiBNb2RlbG8tPj5Db250cm9sYWRvcjogUmV0b3JuYVxuIENvbnRyb2xhZG9yLT4-VmlzdGE6IFByb2Nlc2EgeSBlbnbDrWFcbiBWaXN0YS0-PlVzdWFyaW86IFByb2Nlc2EgeSBlbnbDrWEiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)](https://mermaid-js.github.io/mermaid-live-editor/edit##eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG4gICAgQWxpY2UtPj4rSm9objogSGVsbG8gSm9obiwgaG93IGFyZSB5b3U_XG4gICAgQWxpY2UtPj4rSm9objogSm9obiwgY2FuIHlvdSBoZWFyIG1lP1xuICAgIEpvaG4tLT4-LUFsaWNlOiBIaSBBbGljZSwgSSBjYW4gaGVhciB5b3UhXG4gICAgSm9obi0tPj4tQWxpY2U6IEkgZmVlbCBncmVhdCFcbiAgICAgICAgICAgICIsIm1lcm1haWQiOiJ7XG4gIFwidGhlbWVcIjogXCJkZWZhdWx0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)
 
 
 [ENG]
-
-```mermaid
-sequenceDiagram
- autonumber
-User ->> Controller: Request
-Controller ->> Model: Flame
-Model ->> Database: Request
- 
-Database ->> Model: Returns
-Model ->> Controller: Returns
-Controller ->> Vista: Process and send
-View ->> User: Process and send
-```
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG4gYXV0b251bWJlclxuVXNlciAtPj4gQ29udHJvbGxlcjogUmVxdWVzdFxuQ29udHJvbGxlciAtPj4gTW9kZWw6IEZsYW1lXG5Nb2RlbCAtPj4gRGF0YWJhc2U6IFJlcXVlc3RcbiBcbkRhdGFiYXNlIC0-PiBNb2RlbDogUmV0dXJuc1xuTW9kZWwgLT4-IENvbnRyb2xsZXI6IFJldHVybnNcbkNvbnRyb2xsZXIgLT4-IFZpc3RhOiBQcm9jZXNzIGFuZCBzZW5kXG5WaWV3IC0-PiBVc2VyOiBQcm9jZXNzIGFuZCBzZW5kIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/edit##eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG5Vc3VhcmlvLT4-Q29udHJvbGFkb3I6IFNvbGljaXRhXG4gQ29udHJvbGFkb3ItPj5Nb2RlbG86IExsYW1hXG4gTW9kZWxvLT4-QmFzZSBkZSBkYXRvczogUGlkZVxuIFxuQmFzZSBkZSBkYXRvcyAtPj5Nb2RlbG86IFJldG9ybmFcbiBNb2RlbG8tPj5Db250cm9sYWRvcjogUmV0b3JuYVxuIENvbnRyb2xhZG9yLT4-VmlzdGE6IFByb2Nlc2EgeSBlbnbDrWFcbiBWaXN0YS0-PlVzdWFyaW86IFByb2Nlc2EgeSBlbnbDrWEiLCJtZXJtYWlkIjoie1xuICBcInRoZW1lXCI6IFwiZGVmYXVsdFwiXG59IiwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
 
@@ -79,7 +54,7 @@ Para crear la base de datos necesitamos crear las siguientes tablas con sus espe
 - En la tabla registros debemos crear las siguientes columnas con su correspondiente tipo de informacion:
 
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="50%" style="vertical-align:middle">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2"width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2"width="50%"  style="vertical-align:middle>
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3"width="100%">
 
 
@@ -91,7 +66,7 @@ To create the database we need to create the following tables with their specifi
 - In the records table we must create the following columns with their corresponding type of information:
 
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db1.JPG" alt="db1" width="100%" style="vertical-align:middle">
-<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="100%">
+<img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db2.jpg" alt="db2" width="50%" style="vertical-align:middle>
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/db3.jpg" alt="db3" width="100%">
 
 
