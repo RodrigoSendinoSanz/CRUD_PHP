@@ -7,9 +7,9 @@
  CRUD in php, using xampp with an apache server and mysql, with bootstrap 4 design
  
 ## C`REATE (CREAR)`
-## R`READ(LECTURA)`
-## U`UPDATE(ACTRUALIZAR)`
-## D`DELETE(BORRAR)`
+## R`READ (LECTURA)`
+## U`UPDATE (ACTRUALIZAR)`
+## D`DELETE (BORRAR)`
 
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/resu.jpg" alt="resumen">
 
