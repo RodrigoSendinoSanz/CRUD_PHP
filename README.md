@@ -8,7 +8,7 @@
  
 ## C`REATE (CREAR)`
 ## R`READ (LECTURA)`
-## U`UPDATE (ACTRUALIZAR)`
+## U`UPDATE (ACTUALIZAR)`
 ## D`DELETE (BORRAR)`
 
 <img src="https://github.com/RodrigoSendinoSanz/CRUD_PHP/blob/main/imagenes/resu.jpg" alt="resumen">
